@@ -30,26 +30,27 @@
 - Usar mesquite y Fig tree para ver la filogénia
 
 ##SCRIPT
-#como obtener los genes de ncbi
+
+- como obtener los genes de ncbi
 ./datasets download gene symbol SERPINA3 -- orthologs Felidae -- filename SERPINA3_Felidae.zip
 
 ./datasets summary gene symbol SERPINA3 -- orthologs Felidae -- as -Json-lines ./dataform □| sv gene -- fields tax-name$
-#Bajar genes de una lista
+- Bajar genes de una lista
 ./datasets download gene SERPINA3-id -- input file Gene.SA.CATS.txt -- filename SA.CATS.zip
 
-#Descomprimir un archivo
+- Descomprimir un archivo
 unzip  SERPINA3_Felidae.zip
 
-#ir a la carpeta datasets
+- ir a la carpeta datasets
 module load iqtree/2.2.2.6
 iqtree2
 istree2 -s muscle_rna_fna
 
-#Como bajar un citocromo
+-Como bajar un citocromo
 ./muscle3.8.linux -in rna.fna -out muscle_rna_fna - maxiters t- diags
 
-#Descargar del Supercomputador desde gitbash
+- Descargar del Supercomputador desde gitbash
 scp dechavez@hoffman2.idre.ucla.edu:(pwd) rna.fna
 
-# Subir el archivo descargado a el programa mesquite y Figtree 
+-Subir el archivo descargado a el programa mesquite y Figtree 
   
