@@ -38,4 +38,15 @@ istree2 -s muscle_rna_fna
 scp dechavez@hoffman2.idre.ucla.edu:(pwd) rna.fna
 
 -Subir el archivo descargado a el programa mesquite y Figtree 
+
+#Lo que debe tener cada carpeta:
+- Data
+  rna.fna (archivo FASTA descargado de NCBI)
+  muscle_rna_fna.fasta (alineamiento generado por MUSCLE)
+- Scripts (arriba)
+- Results Serpina3_Felidae.treefile (vizualización en mesquite y figtree)
+  
+
+
+
   
