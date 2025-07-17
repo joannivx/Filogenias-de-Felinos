@@ -1,0 +1,15 @@
+## Como obtener los genes de ncbi
+- ./datasets download gene symbol SERPINA3 -- orthologs Felidae -- filename SERPINA3_Felidae.zip
+## Bajar genes de una lista 
+-	./datasets download gene SERPINA3-id -- input file Gene.SA.CATS.txt -- filename SA.CATS.zip
+## Descomprimir un archivo
+- unzip SERPINA3_Felidae.zip
+## ir a la carpeta ncbi_dataset y alinear las secuencias
+- ./muscle3.8.31_i86linux64 -in rna.fna -out muscle_rna.fna -maxiters t- diags
+- module load iqtree/2.2.2.6 
+- iqtree2 -s muscle_rna_fna
+## Descargar del Supercomputador desde otra ventana de gitbash
+-	gitbashscp dechavez@hoffman2.idre.ucla.edu:(pwd) rna.fna
+-	scp dechavez@hoffman2.idre.ucla.edu:(pwd) muscle_rna.fna
+-	scp dechavez@hoffman2.idre.ucla.edu:(pwd) muscle_rna.fna.figtree
+## Subir el archivo descargado a el programa mesquite y Figtree
