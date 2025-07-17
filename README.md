@@ -45,8 +45,9 @@ El árbol generado en FigTree muestra cómo se agrupan las secuencias según la 
 
 ## Conclusiones
 - El gen SERPINA3 se mantiene altamente conservado dentro de Felidae, por lo que debe ser importante y no tolera muchas mutaciones
-- Las diferencias puntuales observadas en el alineamiento permiten reconstruir relaciones filogenéticas, mostrando una evolución similar dentro de la familia Felidae
+- Las diferencias observadas en el alineamiento permiten reconstruir relaciones filogenéticas, mostrando una evolución similar dentro de la familia Felidae
 - Estas variaciones pueden usarse como marcadores moleculares para diferenciar especies o subespecies.
-
+- La presencia de los clados bien definidos indica que las secuencias del gen SER pueden usarse para reconstruir relaciones filogenéticas entre las especies felinas, especialmente a nivel de género o subfamilia.
+- La topología del árbol sugiere patrones de evolución gradual, con acumulación de mutaciones que permiten distinguir grupos sin grandes saltos evolutivos.
 
   
