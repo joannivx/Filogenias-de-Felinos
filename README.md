@@ -26,8 +26,27 @@ codifica una serina proteasa inhibidora que regula procesos inflamatorios y prot
 ## Secuencia alienada por muscle y vista en Mezquite después de pasar por atom
 <img width="712" height="400" alt="image" src="https://github.com/user-attachments/assets/de65dd31-f76e-4b8f-a439-659a68d95c8c" />
 
+El alineamiento de secuencias del gen SERPINA3 para 21 especies o individuos de felinos.
+- Se observa una alta conservación de nucleótidos entre especies en las columnas donde se mantiene la misma letra. 
+- Algunas posiciones muestran variaciones puntuales (polimorfismos), lo que indica mutaciones que podrían estar sujetas a selección natural o deriva genética.
+- Pocos sitios con ambigüedad por lo que esa zona es una región codificante estable y bien alineada.
 
+## Comparación con una secuencia no alineada por muscle y vista en Mezquite después de pasar por Atom
+<img width="705" height="397" alt="image" src="https://github.com/user-attachments/assets/900e611b-da34-46a1-b936-31946642645b" />
 
+## Vizualización en figtree de la filogenia alineada 
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/6fc55665-4521-4b6b-9daa-dd49daad8107" />
+
+El árbol generado en FigTree muestra cómo se agrupan las secuencias según la similitud entre cada una de ellas y se pueden resaltar los siguientes aspectos:
+- Clados bien definidos como el de los géneros Panthera, Puma, Lynx y Felis.
+- Las especies con altísima similitud en sus secuencias con valores super cercanos entre los clados.  
+- Las especies cercanas de las que se tienen conocimiento y se puede corroborar su relación son Felis catus y Felis atticus se están en el mismo grupo. 
+- Las especies con distancia moderada en cuanto a relación son Puma concolor, Puma yagouaroundi, y Acinonyx jubatus reflejando diferencias genéticas, pero relaciones evolutivas cercanas.
+
+## Conclusiones
+- El gen SERPINA3 se mantiene altamente conservado dentro de Felidae, por lo que debe ser importante y no tolera muchas mutaciones
+- Las diferencias puntuales observadas en el alineamiento permiten reconstruir relaciones filogenéticas, mostrando una evolución similar dentro de la familia Felidae
+- Estas variaciones pueden usarse como marcadores moleculares para diferenciar especies o subespecies.
 
 
   
