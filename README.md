@@ -24,7 +24,7 @@ codifica una serina proteasa inhibidora que regula procesos inflamatorios y prot
 -	Evolución conservada
 
 ## Secuencia alienada por muscle y vista en Mezquite después de pasar por atom
-![text](https://puceeduec-my.sharepoint.com/:i:/g/personal/mjduenas_puce_edu_ec/Eep5uf5Ods1KhKZr3VZ3DK4BYR1HgjQ-J2OO0mozJssOPQ?e=CqrKPq
+![text](https://puceeduec-my.sharepoint.com/:i:/g/personal/mjduenas_puce_edu_ec/Eep5uf5Ods1KhKZr3VZ3DK4BYR1HgjQ-J2OO0mozJssOPQ?e=CqrKPq.png
 
 
 
